@@ -6,8 +6,8 @@ title: Sam Cong
 name_pronunciation: #
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianyue
+last_name: Cong
 
 # Status emoji
 status:
@@ -90,28 +90,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:tianyuec@uchicago.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cty20010831
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/tianyue-cong-94969921b/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/congtianyue/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
