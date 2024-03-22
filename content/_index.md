@@ -157,7 +157,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Class Projects
       filters:
         folders:
           - project
@@ -171,9 +171,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Machine Learning
           tag: Deep Learning
-        - name: Other
+        - name: NLP
+          tag: Deep Learning
+        - name: Web Scraping
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
