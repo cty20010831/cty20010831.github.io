@@ -28,10 +28,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Computational Psychiatry
-  - Cognitive Modeling of Human/Artifical Intelligence
-  - Application of Deep Learning in Psychological Research
+# interests:
+#   - Computational Psychiatry
+#   - Cognitive Modeling of Human/Artifical Intelligence
+#   - Application of Deep Learning in Psychological Research
 
 # Education to show in About widget
 education:
