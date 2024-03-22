@@ -4,21 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About Me
     url: '#about'
     weight: 10
-  - name: Lab Experiences
+  - name: Research Interests
     url: '#featured'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Lab Experiences
+    url: '#featured'
     weight: 30
+  - name: Class Projects
+    url: '#projects'
+    weight: 40
   - name: CV
     url: uploads/Academic_CV.pdf
-    weight: 40
+    weight: 50
   - name: Hobbies
     url: '#slides'
-    weight: 50
+    weight: 60
   # - name: Current Status
   #   url: '#featured'
   #   weight: 70
