@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Predicting Cocaine Use Disorder From Open-Source Structural MRI Images
+summary: In this project for MACS 30100 course, I adopted various classification machine learning algorithmns, alongside deep-learning methods (specifically, basic 3D-CNN models) to predict Cocaine Use Disorder from Structural MRI Images.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Machine Learning
+date: '2024-03-09'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -19,15 +19,8 @@ links:
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/drive/u/0/folders/1LlACmhxOdYw3n8boX0n9VJZAER-lI-nB?ths=true'
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
