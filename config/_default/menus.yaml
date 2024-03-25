@@ -10,18 +10,21 @@ main:
   - name: Research Interests
     url: '#featured'
     weight: 20
-  - name: Lab Experiences
-    url: '#featured'
+  - name: Skills
+    url: '#skills'
     weight: 30
+  - name: Lab Experiences
+    url: '#lab_experiences'
+    weight: 40
   - name: Class Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: CV
     url: uploads/Academic_CV.pdf
-    weight: 50
+    weight: 60
   - name: Hobbies
     url: '#slides'
-    weight: 60
+    weight: 70
   # - name: Current Status
   #   url: '#featured'
   #   weight: 70
