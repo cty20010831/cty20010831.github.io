@@ -22,10 +22,7 @@ main:
   - name: CV
     url: uploads/Academic_CV.pdf
     weight: 60
-  - name: Hobbies
-    url: '#slides'
+  - name: Hobbies (More About Me?)
+    url: '#'
     weight: 70
-  # - name: Current Status
-  #   url: '#featured'
-  #   weight: 70
 
