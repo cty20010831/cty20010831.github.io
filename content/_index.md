@@ -97,7 +97,6 @@ sections:
         - title: Southern University of Science and Technology
           company: Dr. Jinchu Hu's Lab
           company_url: ''
-          company_logo: CUHK
           location: Shenzhen, China
           date_start: '2023-06-01'
           date_end: '2024-06-01'
@@ -108,13 +107,14 @@ sections:
         - title: The Chinese University of Hong Kong
           company: Dr. Zhichen Lin's Lab
           company_url: 'https://psy.ustc.edu.cn/2024/0116/c27895a628502/page.htm'
-          company_logo: 
+          company_logo: CUHK
           location: Shenzhen, China
           date_start: '2022-09-01'
           date_end: '2023-05-31'
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
+            * Supported a research project examining the characteristics and development pattern of psychological research through the lens of metascience.
+            * Coded issues from APA and APS (two top psychology journals) over the past few years based on authorship (e.g., number of authors, nations represented) and sample information (e.g., sample size, demographics).
+            * Calculated the Simpson diversity index to determine the racial composition of selected authors and editors from APA and APS using the vegan package in R.
         - title: The Chinese University of Hong Kong
           company: Dr. Shi Yu's Lab
           company_url: 'https://hss.cuhk.edu.cn/en/teacher/470'
@@ -123,9 +123,11 @@ sections:
           date_start: '2021-09-01'
           date_end: '2023-05-31'
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
-
+            * Contributed to a longitudinal study investigating Chinese middle school students’ study motivation and meaning of life.
+            * Translated scale items measuring authentic inner compass from Chinese to English.
+            * Performed data cleaning to ensure data quality using Excel and SPSS.
+            * Identified careless responses using data screening methods such as long-string index, psychometric synonyms and antonyms, and even-odd consistency via the careless package in R.
+            * Assisted in designing a questionnaire consisting of 14 scales via Credamo to measure meaning of life and related constructs.
     design:
       columns: '2'
   # - block: accomplishments
