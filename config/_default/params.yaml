@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  mode: dark
-  color: indigo
+  mode: light
+  color: congo
   font: minimal
   font_size: L
   
