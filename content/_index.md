@@ -73,8 +73,10 @@ sections:
           location: Providence, RI
           date_start: '2024-06-01'
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
+            * Assist in a computational psychiatry project that studies inhibitory control of patients with suicidality.
+            * Define likelihood functions for go, stop-respond, and successful inhibition trials in stop signal task using PyMC.
+            * Design a comprehensive pipeline for Hierarchical Bayesian Modeling via PyMC, encompassing data simulation, model fitting, and model checking.
+            * Incorporate the model of the stop signal task into HSSM package before fitting it to empirical data.
         - title: Icahn School of Medicine at Mount Sinai
           company: Dr. Herbert Wu's Lab
           company_url: 'https://www.wulab.bio/'
@@ -82,8 +84,9 @@ sections:
           location: New York, NY
           date_start: '2024-06-01'
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
+            * Assist in a computational neuroscience project on building artificial neural network (ANN) for the delayed match to sample (DMS) task.
+            * Update the original vanilla multi-layer recurrent neural network (RNN) to the latest version of tensorflow.
+            * Build RNN following Dale’s principle for the DMS task via tensorflow, including Column Excitation-Inhibition approach (constraining entire columns of the weight matrices to be of the equal sign) and Dale’s ANNs approach (ANNs with separate populations of excitatory and inhibitory units).
         - title: University of Chicago
           company: Dr. Akram Bakkour's Lab
           company_url: 'https://bakkourlab.uchicago.edu/'
@@ -92,8 +95,9 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
+            * Assist in a project on how feature-based representation may facilitate generalizable predictive knowledge.
+            * Implement a scalable deep learning analysis pipeline for feature extraction in the robot drawing task, tailored for upcoming deployment on the Midway3 High Performance Computing Cluster for large dataset analysis.
+            * Employ Tensorflow and Scikit-Learn to construct and validate predictive Convolutional Neural Networks models, streamlining data preprocessing, analysis, and visualization processes.
         - title: Southern University of Science and Technology
           company: Dr. Jinchu Hu's Lab
           company_url: ''
@@ -102,8 +106,10 @@ sections:
           date_end: '2024-06-01'
           date_end: ''
           description: |2-
-            * Update with jobs done.
-            * Update with jobs done.
+            * Built the early version of STAR lab website, including introduction of lab research interests, published works, description of team members, and ongoing projects.
+            * Wrote MATLAB and Stan syntax to build 12 reinforcement models (variants of The Rescorla–Wagner and Pearce–Hall learning models) studying reward reversal learning among patients with major depressive disorder.
+            * Conducted parameter recovery, model estimation (including maximum likelihood estimation and Hierarchical Bayesian Modeling), model comparison, and posterior predictive check for the reward reversal learning project.
+            * Performed Hierarchical Bayesian Modeling analysis on the effect of oxytocin on fear reversal among mentally healthy participants, encompassing model fitting (using Pearce–Hall learning model) and group comparison of treatment and gender effects (using highest density interval of group parameter differences).
         - title: The Chinese University of Hong Kong
           company: Dr. Zhichen Lin's Lab
           company_url: 'https://psy.ustc.edu.cn/2024/0116/c27895a628502/page.htm'
