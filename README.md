@@ -1,6 +1,9 @@
 # [Personal Webpage](https://cty20010831.github.io)
 This repository is used to create my personal academic website using [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).
 
+## Important Note !!!
+This repository will be **archived** because I found a better template for my personal website (swtiched to this [repository](https://github.com/cty20010831/personal_site)).
+
 ## View and Edit Website
 View and edit the github website on the fly by the following command:
 ```bash
